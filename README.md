@@ -6,3 +6,10 @@
 ```
 python BathUpdatePackage.py
 ```
+
+# LeetCode a daily reminder
+- [x] Automatically send the leetcode Question of the Day message via email
+## Usage
+```
+python LeetCodeEmailReminder.py
+```
