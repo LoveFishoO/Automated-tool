@@ -1,6 +1,8 @@
-# 批量更新所有Python依赖包
-- [x] 更新时如若发生冲突，则会自动回退版本
-## 使用
+# Batch update python dependency packages
+- [x] Automatic rollback version when an update goes wrong
+- [x] Automatic recognition python version
+- [ ] Automatic installation of uninstallation dependency packages encountered during updates
+## Usage
 ```
 python BathUpdatePackage.py
 ```
