@@ -1,0 +1,3 @@
+[submodule "AlphafoldInstallation"]
+	path = AlphafoldInstallation
+	url = git@github.com:LoveFishoO/AlphafoldInstallation.git
