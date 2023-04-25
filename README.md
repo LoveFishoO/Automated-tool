@@ -13,3 +13,6 @@ python BathUpdatePackage.py
 ```
 python LeetCodeEmailReminder.py
 ```
+
+# AlphafoldInstallation
+- [x] One-click use of alphafold
